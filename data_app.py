@@ -14,8 +14,8 @@ from sklearn.metrics import accuracy_score
 from PIL import Image
 
 st.title('Machine Learning Analysis')
-image = Image.open("C:\\Users\\mars\\Desktop\\mlwebsit.jpg")
-st.image(image, use_column_width =True)
+#image = Image.open("C:\\Users\\mars\\Desktop\\mlwebsit.jpg")
+#st.image(image, use_column_width =True)
 
 st.write("""
 # Explore different classifier and datasets
