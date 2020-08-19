@@ -11,6 +11,7 @@ from sklearn.neighbors import KNeighborsClassifier
 from sklearn.ensemble import RandomForestClassifier
 
 from sklearn.metrics import accuracy_score
+from PIL import Image
 
 st.title('Machine Learning Analysis')
 image = Image.open("C:\\Users\\mars\\Desktop\\mlwebsit.jpg")
